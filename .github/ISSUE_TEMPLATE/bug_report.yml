@@ -11,9 +11,9 @@ body:
       options:
         - label: 我确认我是 **LSPosed 用户**，其他框架不提供支持。
           required: true
-        - label: 我确认已升级至 [最新的 release 版本](https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases/latest)。
+        - label: 我确认已升级至 [最新的 release 版本](https://github.com/bug-bit/fckvip/releases/latest)。
           required: true
-        - label: 我已在 [已有 Issues](https://github.com/Xposed-Modules-Repo/com.bug.hookvip/issues?q=is%3Aissue+is%3Aclosed) 中查询过，未发现类似问题。
+        - label: 我已在 [已有 Issues](https://github.com/bug-bit/fckvip/issues?q=is%3Aissue+is%3Aclosed) 中查询过，未发现类似问题。
           required: true
         - label: 我确认适配软件的版本与模块适配版本一致，适配软件包名与模块适配包名一致。
           required: true
