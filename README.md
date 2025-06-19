@@ -28,3 +28,9 @@
 ### 须知
 - 该模块是完全免费的，如果你是从任何收费渠道获得，那么恭喜你，你被骗啦！请不遗余力的进行举报🔆
 - 唯一Telegram频道：@bugccx
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bug-bit/fckvip&type=Timeline)](https://star-history.com/#bug-bit/fckvip&Timeline)
