@@ -3,9 +3,10 @@
 # Fuck for VIP
 
 [![Stars](https://img.shields.io/github/stars/bug-bit/fckvip?label=stars)](https://github.com/bug-bit/fckvip)
-<a href="https://github.com/bug-bit/fckvip//releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bug-bit/fckvip/total?label=Downloads"></a>
+<a href="https://github.com/bug-bit/fckvip/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bug-bit/fckvip/total?label=Downloads"></a>
 [![GitHub Release](https://img.shields.io/github/v/release/bug-bit/fckvip)](https://github.com/bug-bit/fckvip/releases)
 <a href="https://t.me/bugccx"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
+<a href="https://github.com/bug-bit/fckvip/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/bug-bit/fckvip"></a>
 
 一个解锁部分软件会员与拓展功能增强的模块（详情见模块内）
 
